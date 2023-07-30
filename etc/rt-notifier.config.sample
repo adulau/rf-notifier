@@ -1,0 +1,3 @@
+[Mastodon]
+access_token = ADDYOURTOKEN
+api_base_url = ADDYOURMASTODONURL
